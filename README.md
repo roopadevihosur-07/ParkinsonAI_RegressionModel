@@ -11,3 +11,9 @@ You’ll run a Jupyter notebook that:
 ---
 
 ## Project Structure
+
+parkinsons-ml/
+├── data/
+│   └── parkinsons.csv     # dataset CSV goes here (name may vary)
+├── chanchal24_parkinsons_local_like.ipynb
+└── README.md
